@@ -31,13 +31,13 @@ def ahorcado ():
         print("Felicidades, adivinaste la palabra" + "".join(Oculta))
               
     else:
-        print("Perdiste, te quedaste sin vidas, la palabra oculta era:" + palabra_secreta)
+        print("Perdiste, te quedaste sin vidas, la palabra oculta era: " + palabra_secreta)
         
         
         
         
         
-        
+ahorcado()      
         
       
     
